@@ -2,7 +2,7 @@
 vector<int> kthSmallLarge(vector<int> &arr, int n, int k)
 {
 // kth smallest element using binary search
-	int s = -1000000000;
+    int s = -1000000000;
     int g = 1000000000;
     int ans;
     while(s <= g)

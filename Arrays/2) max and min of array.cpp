@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 int sumOfMaxMin(int arr[], int n)
 {
-	int g = INT_MIN , s = INT_MAX;
+    int g = INT_MIN , s = INT_MAX;
     int i;
     for(i=0;i<n;i++)
     {
