@@ -1,6 +1,6 @@
 void sort012(int *arr, int n)
 {
-	int low,mid,high;
+    int low,mid,high;
     low = 0,mid = 0;
     high = n-1;
     while(mid <= high)
