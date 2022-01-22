@@ -1,6 +1,6 @@
 void reverseArray(vector<int> &arr , int m)
 {
-	int n = arr.size();
+    int n = arr.size();
     int i = m+1,j=n-1;
     while(i<j)
     {
